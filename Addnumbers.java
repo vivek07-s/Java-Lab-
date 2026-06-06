@@ -1,3 +1,4 @@
+import.java.util,*;
 import java.util.Scanner;// scanner class ko import kia h jisse hum input le sakay 
 
 public class Addnumbers {// ye hamari class h 
